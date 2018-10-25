@@ -26,6 +26,12 @@
 >
 > https://github.com/CrackTheChivalrous/BoutiqueProgram/raw/master/%E9%87%91%E5%B1%B1%E8%AF%8D%E9%9C%B8/Program/v6.7.0.0315/Setup.exe
 
+### 联系方式
+
+> 邮箱：[inssun@qq.com](mailto:inssun@qq.com)
+>
+> 博客：[www.intosun.cn](http://www.intosun.cn/)
+
 ### 温馨提示
 
 > 因软件打包原因，可能会被杀软误报！
